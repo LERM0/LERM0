@@ -1,4 +1,4 @@
-#Lermo Story 👋
+# Lermo Story 👋
 
 When I was a kid, I faced a hard time in the education system. I felt like a fish trying to climb a tree, and the education system did not offer me any help; instead, it kept pushing me away, killing my dream, and limiting my potential.
 
